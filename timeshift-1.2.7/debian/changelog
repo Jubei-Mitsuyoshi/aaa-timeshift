@@ -1,0 +1,18 @@
+timeshift (1.2.7-aaasid) unstable; urgency=low
+
+  * modified from ubuntu source to remove gksu dependency ie will only
+    function correctly in root envirnment
+
+ -- Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>  Fri, 22 Nov 2013 18:22:17 +0100
+
+timeshift (1.2.7-0~68~ubuntu14.04.1) trusty; urgency=low
+
+  * Auto build.
+
+ -- Tony George <teejee2008@gmail.com>  Wed, 13 Nov 2013 11:40:19 +0000
+
+timeshift (1.2.7) quantal; urgency=medium
+
+  * Fixed: Root device not detected on Debian Wheezy
+  
+ -- Tony George <tony.george.kol@gmail.com>  Tue, 12 Nov 2013 10:00:00 +0530
