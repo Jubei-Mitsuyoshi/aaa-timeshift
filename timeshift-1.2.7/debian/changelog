@@ -1,4 +1,4 @@
-timeshift (1.2.7-aaasid) unstable; urgency=low
+timeshift (1.2.7) unstable; urgency=low
 
   * modified from ubuntu source to remove gksu dependency ie will only
     function correctly in root envirnment
